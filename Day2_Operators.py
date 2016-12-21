@@ -8,3 +8,4 @@ tax = taxPer/100 * mealCost
 total = round(mealCost + tip + tax)
 
 print("The total meal cost is %d dollars." %total)
+#print("The total meal cost is " + str(total) + " dollars.")
