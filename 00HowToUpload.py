@@ -11,3 +11,6 @@ git status
 git commit -m "..."
 git push -u origin master
 '''
+
+'''
+jupyter notebook ...
